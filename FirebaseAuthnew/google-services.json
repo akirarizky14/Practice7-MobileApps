@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956257253731",
+    "project_id": "practice7-cba2d",
+    "storage_bucket": "practice7-cba2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956257253731:android:83b842cc2e451a273f7b56",
+        "android_client_info": {
+          "package_name": "ru.mirea.rosyadi.akira.rizky.firebaseauthnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956257253731-2d0vdc88tnk1bqstkl37pqk3r2fmalph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XClJokqvCKgwczANG3P5mJ5JliL5iH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956257253731-2d0vdc88tnk1bqstkl37pqk3r2fmalph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

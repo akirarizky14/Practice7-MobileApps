@@ -1,3 +1,4 @@
+include ':FirebaseAuthnew'
 include ':FirebaseAuth'
 include ':HttpUrlConnection'
 include ':socketConnection'
